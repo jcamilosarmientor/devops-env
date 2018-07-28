@@ -1,2 +1,5 @@
 # devops-env
-Nothing to worry about it
+Automated local deployment with:
+* docker
+* gogs
+* drone
